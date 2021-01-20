@@ -19,4 +19,3 @@ thanks:
 Shivam Gupta
 Ruchi Singh
 Harshita Rastogi
-Minal Bonde
